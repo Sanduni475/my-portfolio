@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding-inline-start: 0;
+}
+
+html{
+    
+    background-color:beige;
+    border: 10px solid black;
+}
+h1{
+    color:darkblue;
+    padding: 60PX;
+    background-color: aquamarine;
+    border: 4px solid black;
+}
+h2{
+    color:darkblue;
+    background-color: aquamarine;
+    border: 4px solid black;
+
+}
+h3{
+    color:darkblue;
+    padding-left: 4PX;
+    background-color: aquamarine;
+    border:4px solid black;
+}
+@media (max-width:750px){
+    body{
+        background-color: aqua;
+    }
+}
