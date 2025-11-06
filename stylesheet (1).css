@@ -28,22 +28,50 @@ body{
     font-size: 20px;
     background-color: limegreen;
     padding: 10px;
-    padding-left: 220px;
+    text-align: center;
 }
 .role{
      color: black;
     font-size: 15px;
     background-color: limegreen;
     padding: 5px;
-    padding-left: 200px;
+    text-align: center
 }
-h3{
-    color:darkblue;
-    padding-left: 10PX;
-    border: px solid bisque;
+
+
+.section-about{
+    margin: 5px;
+    padding: 2px;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    background-color: white;
 }
+.section-skills{
+    margin: 5px;
+    padding: 2px;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.section-project{
+    margin: 5px;
+    padding: 2px;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    background-color: white;
+}
+.section-contact{
+    margin: 5px;
+    padding: 2px;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    background-color: white;
+}
+
 @media (max-width:750px){
     body{
-        background-color:azure;
+        background-color:lightgray;
+        
     }
 }
