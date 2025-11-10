@@ -128,20 +128,7 @@ hr {
 
 .table td {
   border: 1px solid #ccc;
-  padding: 10px;
-}
-#project-pic {
-  width: 80px;             
-  height: 80px;
-  border-radius: 8px;
-  overflow: hidden;          
-  display: block;
-  margin: 0 auto 15px;      
-  border: 2px solid limegreen; 
-  box-shadow: 0 0 8px ;
-  background: #f0f6fb;    
-  
-}
+  padding: 10px;}
 
 
 input[type="text"],
